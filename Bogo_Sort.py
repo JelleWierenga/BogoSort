@@ -29,5 +29,5 @@ def animation(arr):
                          frames=bogo_sort(arr), repeat=False)
     plt.show()
 
-my_array = [3, 5, 2, 8, 1, 4]
-animation(my_array)
+Sorting_Numbers = [3, 5, 2, 8, 1, 4]
+animation(Sorting_Numbers)
